@@ -25,4 +25,3 @@
 ## Breakfast
 - [Pielets](pielets.md)
 - [Work Breakfast](work-breakfast.md)
-- [Work Breakfast](work-breakfast.md)
