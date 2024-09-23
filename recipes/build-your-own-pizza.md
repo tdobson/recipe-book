@@ -5,7 +5,7 @@ A customizable pizza meal where each person can create their own pizza with thei
 
 ## Ingredients
 - Gluten-free pizzas from Asda (for Jen)
-- Non-breds from Tesco (for Tim)
+- Naan Breads from Tesco (for Tim)
 - Cheese
 - Optional toppings:
   - Extra cheese
@@ -46,8 +46,8 @@ Adjustable based on needs (recipe describes for at least 2 people)
 5. Serve hot.
 
 ## Notes
-- Tim prefers non-breds from Tesco rather than a regular pizza.
-- Tim doesn't need tomato paste on his non-breds; he can eat them plain.
+- Tim prefers naan-breads from Tesco rather than a regular pizza.
+- Tim doesn't need tomato paste on his naan-breads; he can eat them plain.
 - The toppings can be adjusted based on personal preference and what's available in the fridge.
 - This meal is easily customizable for different dietary needs.
 
