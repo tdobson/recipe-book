@@ -19,6 +19,9 @@
 ## Lunches
 - [Baked Potatoes](baked-potatoes.md)
 
+## Dinner
+- [Baked Potatoes](baked-potatoes.md)
+
 ## Breakfast
 - [Pielets](pielets.md)
 - [Work Breakfast](work-breakfast.md)
