@@ -15,6 +15,7 @@ A "fake" lasagna that uses courgette instead of pasta, making it a vegetarian an
 - Grated cheese for topping
 
 ## Equipment Needed
+- Oven
 - Microwave
 - Large mixing bowl
 - Saucepan

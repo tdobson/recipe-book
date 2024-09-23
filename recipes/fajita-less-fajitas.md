@@ -9,7 +9,7 @@ A deconstructed version of fajitas, suitable for various dietary needs, includin
 - Fajitas spice
 - Halloumi
 - Sour cream
-- Cheese (referred to as "Tim cheese" in the transcript)
+- Cheese ("Tim cheese")
 - Gluten-free tortillas (about 8-9 for two people plus a small portion)
 - Oil
 

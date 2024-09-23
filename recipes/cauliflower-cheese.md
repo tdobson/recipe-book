@@ -8,7 +8,7 @@ A classic comfort dish featuring cauliflower baked in a rich cheese sauce.
 - About 1 pint (570ml) of milk
 - 2-3 tablespoons plain flour (gluten-free in this house)
 - 2-3 tablespoons butter
-- A large amount of grated cheese (recipe suggests 150g, but we use about twice that)
+- A large amount of grated cheese 
 - Salt and pepper to taste
 
 ## Equipment Needed

@@ -11,7 +11,7 @@ A simple and customizable Mexican-inspired dish featuring filled tortillas baked
 - Cooking sauce (from the Enchilada kit)
 - Grated cheddar cheese
 - Optional fillings:
-  - Letto rice
+  - Leftover rice
   - Tin of sweet corn
 
 ## Equipment Needed
