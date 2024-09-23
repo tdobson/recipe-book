@@ -22,7 +22,3 @@
 ## Breakfast
 - [Pielets](pielets.md)
 - [Work Breakfast](work-breakfast.md)
-
-## Meals That Don't Work
-- Jen doesn't like vegetable soup
-- But does like tinned tomato soup and vegetable and something soups
