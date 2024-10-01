@@ -15,7 +15,7 @@ To use this Recipe Book, simply browse the [Recipe Index](/) to find a recipe yo
 While this Recipe Book is primarily maintained by Tim and Jen, contributions are welcome. If you'd like to suggest a new recipe or improvements to existing ones, please contact us.
 
 ## License
-This project is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License. This means you are free to:
+This project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/). This means you are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material for any purpose, even commercially
 
