@@ -56,8 +56,3 @@ Not specified in the transcript, but likely serves 3-4 people
 - Serve with gluten-free soy sauce, normal soy sauce, and optionally, plum Sharwood's sauce.
 - Prawn crackers can be served as an optional side.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

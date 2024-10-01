@@ -50,8 +50,3 @@ A deconstructed version of fajitas, suitable for various dietary needs, includin
 - Adjust cooking times if needed, especially if using a different oven temperature for multiple components.
 - The recipe is gluten-free when using gluten-free tortillas.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

@@ -51,8 +51,3 @@ Not specified in the transcript
 - You can experiment with different spices and cheeses to create variations.
 - Using less watery tomatoes for the sauce is recommended for better consistency.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

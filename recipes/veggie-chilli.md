@@ -53,8 +53,3 @@ Enough for a rugby team of hungry people (large group)
 - If you need to leave it for a couple of hours before eating, that's fine.
 - The consistency can be adjusted to your preference - blend more for a smoother chilli, or less for a chunkier texture.
 
-## Storage
-Not specified in the transcript, but chilli typically stores well in the refrigerator for several days.
-
-## Nutritional Information
-Not provided in the transcript.

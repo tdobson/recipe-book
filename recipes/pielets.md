@@ -56,8 +56,3 @@ Not specified in the transcript, but likely makes 6-12 pielets depending on the 
 - For a nutty variation, try adding cashew or almond butter.
 - The pielets hold together better if you put a bit of butter in the bun tins before adding the mixture.
 
-## Storage
-Store pielets in a tupperware container in the fridge. They will keep for 5-6 days.
-
-## Nutritional Information
-Not provided in the transcript.

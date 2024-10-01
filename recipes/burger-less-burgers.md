@@ -58,8 +58,3 @@ Adjustable based on needs (recipe describes for at least 3 people)
 - For Jen: Use gluten-free bread rolls.
 - James will eat basically everything, especially halloumi.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

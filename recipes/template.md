@@ -32,12 +32,3 @@ A brief description of the dish, its origin, or any interesting facts.
 - [Any additional tips or variations]
 - [Dietary information (e.g., gluten-free, vegan)]
 
-## Storage
-[Instructions for storing leftovers]
-
-## Nutritional Information (optional)
-- Calories: 
-- Protein: 
-- Carbohydrates: 
-- Fat: 
-...

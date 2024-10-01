@@ -49,8 +49,3 @@ Not specified in the transcript, but likely serves 3-4 people
 - The dish will be very hot when it comes out of the oven, so let it cool for a few minutes before serving.
 - This recipe is gluten-free when using gluten-free flour.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

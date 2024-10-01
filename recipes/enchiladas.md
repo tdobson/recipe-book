@@ -51,8 +51,3 @@ Makes 8 Enchiladas, serving 2-3 people
 - For a lighter meal, consider serving with a side salad.
 - For a heartier meal, you could serve with chips (fries) or wedges.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

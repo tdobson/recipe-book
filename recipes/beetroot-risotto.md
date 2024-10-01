@@ -46,8 +46,3 @@ Serves 2 adults and 1 small portion
 - It will stain your hand, but it will not be for long.
 - The recipe describes it as "marvelous" and "delicious".
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

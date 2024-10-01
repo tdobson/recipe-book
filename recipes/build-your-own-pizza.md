@@ -51,8 +51,3 @@ Adjustable based on needs (recipe describes for at least 2 people)
 - The toppings can be adjusted based on personal preference and what's available in the fridge.
 - This meal is easily customizable for different dietary needs.
 
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.

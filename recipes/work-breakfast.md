@@ -33,8 +33,3 @@ A quick and easy breakfast option for work, featuring Greek yogurt, peanut butte
 - Adding the granola just before leaving ensures it stays crunchy.
 - Blueberries are mentioned as a preferred fruit, but you could potentially use other fruits if desired.
 
-## Storage
-Prepare in a tupperware pot for easy transport to work. Consume on the same day of preparation.
-
-## Nutritional Information
-Not provided in the transcript.
