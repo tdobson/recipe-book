@@ -1,29 +1,19 @@
 {
-  "name": "recipe-book",
+  "name": "tim-and-jen-recipe-book",
   "version": "1.0.0",
   "description": "A collection of vegetarian and gluten-free friendly recipes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy"
   },
   "private": true,
   "license": "CC-BY-SA-3.0",
   "authors": [
     "Tim",
     "Jen"
-  ]
-}
-{
-  "name": "tim-and-jen-recipe-book",
-  "version": "1.0.0",
-  "description": "Tim and Jen's Recipe Book",
-  "main": "index.js",
-  "scripts": {
-    "build": "eleventy"
-  },
+  ],
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
