@@ -14,13 +14,37 @@ header {
     margin-bottom: 2rem;
 }
 
+nav {
+    margin-top: 1rem;
+}
+
 nav a {
     color: #333;
     text-decoration: none;
+    margin-right: 1rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
 
 h1, h2, h3 {
     color: #2c3e50;
+}
+
+.recipe {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.recipe h1 {
+    margin-top: 0;
+}
+
+.recipe ul, .recipe ol {
+    padding-left: 2rem;
 }
 
 footer {
