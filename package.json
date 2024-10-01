@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "eleventy",
     "deploy": "npm run build && npx wrangler pages deploy _site/recipes",
-    "dev": "eleventy && serve _site"
+    "dev": "npm run build && serve _site"
   },
   "private": true,
   "license": "CC-BY-SA-3.0",
