@@ -24,7 +24,7 @@ Under the following terms:
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ## Authors
-- Tim
-- Jen
+- [Tim](https://instagram.com/tim.dobson.uk)
+- [Jen](https://instagram.com/furryjenn83)
 
 We hope you enjoy cooking and eating these recipes as much as we do!
