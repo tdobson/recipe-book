@@ -35,6 +35,7 @@ A hearty and flavorful vegetarian chilli that can feed a large group. This recip
 Enough for a rugby team of hungry people (large group)
 
 ## Instructions
+0. Chop up the ingredients.
 1. Heat oil in a large pan.
 2. Add chopped onion, bell pepper, carrot, celery, and 1/4 teaspoon of salt. Sauté for 7-10 minutes until vegetables are softened.
 3. Add minced garlic, chili powder, paprika, cumin, and oregano. Cook for about 1 minute, stirring constantly.
@@ -52,4 +53,5 @@ Enough for a rugby team of hungry people (large group)
 - The cooking time is flexible - you can cook it for longer than 30 minutes if needed.
 - If you need to leave it for a couple of hours before eating, that's fine.
 - The consistency can be adjusted to your preference - blend more for a smoother chilli, or less for a chunkier texture.
+- Serve with rice or jacket potatoes or nachos, avocado and salsa. Probably have sour cream too.
 
