@@ -24,7 +24,7 @@ A hearty and flavorful vegetarian chilli that can feed a large group. This recip
 - One of the biggest pans you have
 - Knife for chopping vegetables
 - Wooden spoon or spatula for stirring
-- Stick blender (ideal, but optional)
+- Stick blender (ideally)
 
 ## Preparation Time
 - Prep: 20-30 minutes
@@ -32,7 +32,7 @@ A hearty and flavorful vegetarian chilli that can feed a large group. This recip
 - Total: 50-60 minutes (minimum)
 
 ## Servings
-Enough for a rugby team of hungry people (large group)
+Enough for a rugby team of hungry people
 
 ## Instructions
 0. Chop up the ingredients.
