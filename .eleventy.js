@@ -9,10 +9,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.ignores.add("transcripts/**");
   eleventyConfig.ignores.add("README.md");
 
-  // Add a custom date filter
-  eleventyConfig.addFilter("date", function(date, format) {
-    return new Date(date).getFullYear();
-  });
 
   return {
     dir: {
