@@ -8,6 +8,11 @@ module.exports = function(eleventyConfig) {
   // Ignore the transcripts folder
   eleventyConfig.ignores.add("transcripts/**");
 
+  // Add a custom date filter
+  eleventyConfig.addFilter("date", function(date, format) {
+    return new Date(date).getFullYear();
+  });
+
   return {
     dir: {
       input: ".",
