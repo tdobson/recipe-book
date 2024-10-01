@@ -5,6 +5,9 @@ module.exports = function(eleventyConfig) {
   // Copy image files
   eleventyConfig.addPassthroughCopy("images");
   
+  // Copy styles.css to the output
+  eleventyConfig.addPassthroughCopy("styles.css");
+  
   // Ignore the transcripts folder
   eleventyConfig.ignores.add("transcripts/**");
 
