@@ -12,7 +12,7 @@ This Recipe Book is a collection of vegetarian and gluten-free friendly recipes 
 To use this Recipe Book, simply browse the [Recipe Index](/) to find a recipe you'd like to try. Each recipe is stored as a separate page, making it easy to read and print individual recipes.
 
 ## Contributing
-While this Recipe Book is primarily maintained by Tim and Jen, contributions are welcome. If you'd like to suggest a new recipe or improvements to existing ones, please contact us.
+While this Recipe Book is primarily maintained by Tim and Jen, contributions are welcome. If you'd like to suggest a new recipe or improvements to existing ones, please visit our [GitHub repository](https://github.com/tdobson/recipe-book) and open an issue or submit a pull request.
 
 ## License
 This project is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) License](https://creativecommons.org/licenses/by-sa/3.0/). This means you are free to:
