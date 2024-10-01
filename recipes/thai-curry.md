@@ -27,7 +27,7 @@ A versatile and flavorful Thai curry that can be customized with various vegetab
 - Total: 50-70 minutes
 
 ## Servings
-Not specified in the transcript, but likely serves 3-4 people
+4-6 people
 
 ## Instructions
 1. If using fresh butternut squash, chop it into chunks and roast in a baking tray with oil for about 40 minutes at 180°C (350°F) until soft and easily pierced with a knife.
