@@ -1,3 +1,8 @@
+---
+layout: layout.njk
+title: Recipe Index
+---
+
 # Recipe Index
 
 ## Evening Meals
