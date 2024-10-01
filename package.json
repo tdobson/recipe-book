@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-
-      "build": "eleventy",
-      "deploy": "npm run build && npx wrangler pages deploy _site/recipes"
-       },
+    "build": "eleventy",
+    "deploy": "npm run build && npx wrangler pages deploy _site/recipes",
+    "dev": "eleventy && serve _site"
+  },
   "private": true,
   "license": "CC-BY-SA-3.0",
   "authors": [
@@ -17,6 +17,7 @@
   ],
   "keywords": [],
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "serve": "^14.2.0"
   }
 }
