@@ -49,8 +49,3 @@ A simple and versatile meal featuring baked potatoes with various toppings. This
 - The microwave + oven method provides more flexibility in timing and can result in a crispier skin.
 - For a complete meal, consider adding a side salad or vegetable dish.
 
-## Storage
-Cooked potatoes can be stored in the refrigerator and reheated, but the recipe doesn't specify for how long.
-
-## Nutritional Information
-Not provided in the transcript.

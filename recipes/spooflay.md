@@ -53,9 +53,3 @@ Not specified in the transcript, but likely serves 4-6 people
 - This recipe is gluten-free when using gluten-free flour and pasta.
 - The recipe is quite complicated and does take a while to prepare.
 - It's important to cook the vegetable mixture until most of the water has evaporated to avoid a sloppy consistency.
-
-## Storage
-Not specified in the transcript.
-
-## Nutritional Information
-Not provided in the transcript.
