@@ -47,9 +47,9 @@ Adjustable based on needs (recipe describes for at least 3 people)
 5. After 20 minutes of wedge cooking time, add the tray with mushrooms and Beyond Meat Burgers to the oven. Cook for 20 minutes.
 6. If using chicken, place it on a baking tray and add to the oven. Cook for 20 minutes at 180°C.
 7. About 10 minutes before serving, fry the halloumi in the large frying pan for about 6 minutes.
-8. Prepare the table with mayo, aioli, chilli mayo, bread rolls, water, plates, teaspoons, big spoons, salt, and pepper.
-9. Optional: Grate some cheese if desired.
-10. When everything is cooked, assemble the burgers and serve with the wedges.
+8. Prepare the table with mayo, aioli, chilli mayo, blue cheese dip, butter, margerine, bread rolls, water, teaspoons, big spoons, salt, and pepper.
+9. Optional: Grate some cheddar cheese if desired.
+10. When everything is cooked, invite everyone into the kitchen and assemble the burgers and serve with the wedges.
 
 ## Notes
 - The Beyond Meat Burgers are gluten-free and can be cooked on the same tray as the mushrooms.
@@ -57,4 +57,3 @@ Adjustable based on needs (recipe describes for at least 3 people)
 - For Tim: Include a ripe tomato if available.
 - For Jen: Use gluten-free bread rolls.
 - James will eat basically everything, especially halloumi.
-
