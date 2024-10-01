@@ -6,7 +6,7 @@ title: About Tim & Jen's Recipe Book
 # About Tim & Jen's Recipe Book
 
 ## Description
-This Recipe Book is a collection of vegetarian and gluten-free friendly recipes curated by Tim and Jen. It's designed to provide easy-to-follow instructions for a variety of meals, including low-carb options, breakfast ideas, and customizable dishes.
+This Recipe Book is a collection of vegetarian and gluten-free friendly recipes curated by [Tim](https://instagram.com/tim.dobson.uk) and [Jen](https://instagram.com/furryjenn83). It's designed to provide easy-to-follow instructions for a variety of meals, including low-carb options, breakfast ideas, and customizable dishes.
 
 ## Getting Started
 To use this Recipe Book, simply browse the [Recipe Index](/) to find a recipe you'd like to try. Each recipe is stored as a separate page, making it easy to read and print individual recipes.
