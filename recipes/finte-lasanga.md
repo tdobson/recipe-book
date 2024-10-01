@@ -28,7 +28,7 @@ A "fake" lasagna that uses courgette instead of pasta, making it a vegetarian an
 - Total: 60-70 minutes
 
 ## Servings
-Not specified in the transcript
+4 people
 
 ## Instructions
 1. Defrost the spinach in the microwave.

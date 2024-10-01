@@ -25,7 +25,7 @@ A vegetarian dish combining spinach, cheese, and eggs in a soufflé-like prepara
 - Total: 95 minutes
 
 ## Servings
-Not specified in the transcript, but likely serves 4-6 people
+3-4 people
 
 ## Instructions
 1. Grate the courgettes into a pan and cook on medium heat for about 10 minutes.

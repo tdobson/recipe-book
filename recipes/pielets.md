@@ -31,7 +31,7 @@ Pielets are a nutritious breakfast or snack option made with mashed bananas, oat
 - Total: 1 hour 40 minutes - 1 hour 45 minutes
 
 ## Servings
-Not specified in the transcript, but likely makes 6-12 pielets depending on the size of the bun tins.
+Likely makes 6-12 pielets depending on the size of the bun tins.
 
 ## Instructions
 1. Mash two ripe bananas well in a mixing bowl.

@@ -16,11 +16,13 @@ A customizable burger meal that can be adapted for different dietary needs, incl
 - Chilli mayo
 - Bread rolls (regular for Tim)
 - Gluten-free bread rolls (for Jen)
-- Cheese block (optional)
+- Cheddar Cheese (optional)
 - Ripe tomato (optional, for Tim)
 
 ## Equipment Needed
 - Oven
+- Chopping Knife
+- Chopping Board
 - Baking trays
 - Large frying pan
 - Cheese grater (optional)
@@ -53,7 +55,7 @@ Adjustable based on needs (recipe describes for at least 3 people)
 
 ## Notes
 - The Beyond Meat Burgers are gluten-free and can be cooked on the same tray as the mushrooms.
-- Adjust cooking times slightly if needed, especially for the chicken if cooking from frozen (about 30 minutes).
+- If cooking chicken from frozen, adjust cooking times slightly (to about 30 minutes).
 - For Tim: Include a ripe tomato if available.
 - For Jen: Use gluten-free bread rolls.
 - James will eat basically everything, especially halloumi.

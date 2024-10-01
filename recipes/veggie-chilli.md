@@ -32,7 +32,7 @@ A hearty and flavorful vegetarian chilli that can feed a large group. This recip
 - Total: 50-60 minutes (minimum)
 
 ## Servings
-Enough for a rugby team of hungry people
+Enough for a five aside football team of hungry people (5-8 people)
 
 ## Instructions
 0. Chop up the ingredients.

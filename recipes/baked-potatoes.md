@@ -1,7 +1,7 @@
 # Baked Potatoes
 
 ## Description
-A simple and versatile meal featuring baked potatoes with various toppings. This recipe is flexible and can be adjusted based on individual preferences and dietary needs.
+A simple and versatile meal featuring baked potatoes with various toppings. This meal is flexible and can be adjusted based on individual preferences and dietary needs.
 
 ## Ingredients
 - Potatoes (2 for Tim, 1.5 for Jen, 1 for James, plus 1 extra)
@@ -15,7 +15,7 @@ A simple and versatile meal featuring baked potatoes with various toppings. This
   - Ripe tomato (for Tim)
 
 ## Equipment Needed
-- Microwave
+- Microwave (optional, but recommended)
 - Oven (optional, for finishing or keeping warm)
 - Kitchen roll
 - Plates
@@ -26,7 +26,7 @@ A simple and versatile meal featuring baked potatoes with various toppings. This
 - Microwave + Oven method: 45-60 minutes
 
 ## Servings
-3-4 servings (adjustable)
+3 servings
 
 ## Instructions
 1. Wash the potatoes.

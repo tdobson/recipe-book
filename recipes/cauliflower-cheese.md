@@ -25,7 +25,7 @@ A classic comfort dish featuring cauliflower baked in a rich cheese sauce.
 - Total: 35-40 minutes
 
 ## Servings
-Not specified in the transcript, but likely serves 3-4 people
+3-4 people
 
 ## Instructions
 1. Wash the cauliflower and cut it into florets about the size of a baby's hand.
