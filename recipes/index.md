@@ -8,25 +8,25 @@ title: Recipe Index
 ## Evening Meals
 
 ### Low Carb Meals
-- [Burger-less Burgers](burger-less-burgers.md)
-- [Cauliflower Cheese](cauliflower-cheese.md)
-- [Fajita-less Fajitas](fajita-less-fajitas.md)
-- [Finte Lasanga al Foglia](finte-lasanga.md)
-- [Spooflay](spooflay.md)
-- [Thai Curry](thai-curry.md)
+- [Burger-less Burgers](burger-less-burgers)
+- [Cauliflower Cheese](cauliflower-cheese)
+- [Fajita-less Fajitas](fajita-less-fajitas)
+- [Finte Lasanga al Foglia](finte-lasanga)
+- [Spooflay](spooflay)
+- [Thai Curry](thai-curry)
 
 ### Carby Meals
-- [Beetroot Risotto](beetroot-risotto.md)
-- [Build-your-own Pizza](build-your-own-pizza.md)
-- [Enchiladas](enchiladas.md)
-- [Veggie Chilli](veggie-chilli.md)
+- [Beetroot Risotto](beetroot-risotto)
+- [Build-your-own Pizza](build-your-own-pizza)
+- [Enchiladas](enchiladas)
+- [Veggie Chilli](veggie-chilli)
 
 ## Lunches
-- [Baked Potatoes](baked-potatoes.md)
+- [Baked Potatoes](baked-potatoes)
 
 ## Dinner
-- [Baked Potatoes](baked-potatoes.md)
+- [Baked Potatoes](baked-potatoes)
 
 ## Breakfast
-- [Pielets](pielets.md)
-- [Work Breakfast](work-breakfast.md)
+- [Pielets](pielets)
+- [Work Breakfast](work-breakfast)
