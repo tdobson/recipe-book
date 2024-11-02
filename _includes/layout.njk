@@ -20,5 +20,23 @@
     <footer>
         <p>&copy; 2024 Tim &amp; Jen</p>
     </footer>
+    <script>
+        window.addEventListener('load', () => {
+            // Get all links on the page
+            const links = document.querySelectorAll('a');
+            
+            // For each link
+            links.forEach(link => {
+                // Only preload local links (those starting with / or relative paths)
+                if (link.href.startsWith(window.location.origin) || link.href.startsWith('/')) {
+                    // Create a preload link
+                    const preloadLink = document.createElement('link');
+                    preloadLink.rel = 'prefetch';
+                    preloadLink.href = link.href;
+                    document.head.appendChild(preloadLink);
+                }
+            });
+        });
+    </script>
 </body>
 </html>
