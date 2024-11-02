@@ -22,18 +22,48 @@
     </footer>
     <script>
         window.addEventListener('load', () => {
-            // Get all links on the page
+            // Store prefetched content
+            const pageCache = new Map();
+
+            // Function to fetch and cache content
+            async function prefetchPage(url) {
+                try {
+                    const response = await fetch(url);
+                    const text = await response.text();
+                    pageCache.set(url, text);
+                } catch (error) {
+                    console.error('Prefetch failed:', error);
+                }
+            }
+
+            // Get all links and set up prefetch
             const links = document.querySelectorAll('a');
-            
-            // For each link
             links.forEach(link => {
-                // Only preload local links (those starting with / or relative paths)
                 if (link.href.startsWith(window.location.origin) || link.href.startsWith('/')) {
-                    // Create a preload link
-                    const preloadLink = document.createElement('link');
-                    preloadLink.rel = 'prefetch';
-                    preloadLink.href = link.href;
-                    document.head.appendChild(preloadLink);
+                    // Prefetch and store content
+                    prefetchPage(link.href);
+
+                    // Add click handler
+                    link.addEventListener('click', async (e) => {
+                        e.preventDefault();
+                        
+                        // If we have cached content, use it
+                        if (pageCache.has(link.href)) {
+                            // Parse the cached content
+                            const parser = new DOMParser();
+                            const doc = parser.parseFromString(pageCache.get(link.href), 'text/html');
+                            
+                            // Update the page content
+                            document.title = doc.title;
+                            document.querySelector('main').innerHTML = doc.querySelector('main').innerHTML;
+                            
+                            // Update the URL without a page reload
+                            history.pushState({}, '', link.href);
+                        } else {
+                            // Fallback to normal navigation if cache missing
+                            window.location.href = link.href;
+                        }
+                    });
                 }
             });
         });
