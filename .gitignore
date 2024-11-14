@@ -1,0 +1,7 @@
+_site
+.aider**
+package-lock.json
+.aider.chat.history.md
+.aider.input.history
+node_modules
+.wrangler
