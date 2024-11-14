@@ -3,6 +3,8 @@ layout: layout.njk
 title: About Tim & Jen's Recipe Book
 ---
 
+<div class="about-content">
+
 # About Tim & Jen's Recipe Book
 
 ## Description
@@ -28,3 +30,5 @@ Under the following terms:
 - [Jen](https://instagram.com/furryjenn83)
 
 We hope you enjoy cooking and eating these recipes as much as we do!
+
+</div>
