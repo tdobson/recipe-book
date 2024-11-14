@@ -27,6 +27,11 @@
 
             // Function to fetch and cache content
             async function prefetchPage(url) {
+                // Don't refetch if already cached
+                if (pageCache.has(url)) {
+                    return;
+                }
+
                 try {
                     const response = await fetch(url);
                     const text = await response.text();
@@ -36,36 +41,71 @@
                 }
             }
 
-            // Get all links and set up prefetch
-            const links = document.querySelectorAll('a');
-            links.forEach(link => {
-                if (link.href.startsWith(window.location.origin) || link.href.startsWith('/')) {
-                    // Prefetch and store content
-                    prefetchPage(link.href);
+            // Function to update page content
+            function updatePageContent(content, url) {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(content, 'text/html');
+                
+                // Update the page content
+                document.title = doc.title;
+                document.querySelector('main').innerHTML = doc.querySelector('main').innerHTML;
+                
+                // Setup links on the new content
+                setupLinks();
+            }
 
-                    // Add click handler
-                    link.addEventListener('click', async (e) => {
-                        e.preventDefault();
+            // Function to setup all links on the page
+            function setupLinks() {
+                const links = document.querySelectorAll('a');
+                links.forEach(link => {
+                    if (link.href.startsWith(window.location.origin) || link.href.startsWith('/')) {
+                        // Remove existing click listeners
+                        const newLink = link.cloneNode(true);
+                        link.parentNode.replaceChild(newLink, link);
                         
-                        // If we have cached content, use it
-                        if (pageCache.has(link.href)) {
-                            // Parse the cached content
-                            const parser = new DOMParser();
-                            const doc = parser.parseFromString(pageCache.get(link.href), 'text/html');
+                        // Prefetch content
+                        prefetchPage(newLink.href);
+
+                        // Add click handler
+                        newLink.addEventListener('click', async (e) => {
+                            e.preventDefault();
                             
-                            // Update the page content
-                            document.title = doc.title;
-                            document.querySelector('main').innerHTML = doc.querySelector('main').innerHTML;
-                            
-                            // Update the URL without a page reload
-                            history.pushState({}, '', link.href);
-                        } else {
-                            // Fallback to normal navigation if cache missing
-                            window.location.href = link.href;
-                        }
-                    });
+                            // If we have cached content, use it
+                            if (pageCache.has(newLink.href)) {
+                                updatePageContent(pageCache.get(newLink.href), newLink.href);
+                                // Update the URL without a page reload
+                                history.pushState({ url: newLink.href }, '', newLink.href);
+                            } else {
+                                // Fallback to normal navigation if cache missing
+                                window.location.href = newLink.href;
+                            }
+                        });
+                    }
+                });
+            }
+
+            // Handle back/forward navigation
+            window.addEventListener('popstate', (event) => {
+                const currentUrl = window.location.href;
+                if (pageCache.has(currentUrl)) {
+                    updatePageContent(pageCache.get(currentUrl), currentUrl);
+                } else {
+                    // If not in cache, fetch it
+                    fetch(currentUrl)
+                        .then(response => response.text())
+                        .then(content => {
+                            pageCache.set(currentUrl, content);
+                            updatePageContent(content, currentUrl);
+                        })
+                        .catch(error => {
+                            console.error('Failed to fetch page:', error);
+                            window.location.reload(); // Fallback to full page reload
+                        });
                 }
             });
+
+            // Initial setup of links
+            setupLinks();
         });
     </script>
 </body>
