@@ -4,7 +4,7 @@ title: Goat Cheese Flan
 ---
 
 ## Description
-A savory flan combining the creamy richness of soft cheese and goat cheese on a flaky pastry base.
+A savoury flan combining the creamy richness of soft cheese and goat cheese on a flaky pastry base.
 
 ## Ingredients
 For the Flan:
