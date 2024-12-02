@@ -5,3 +5,5 @@ package-lock.json
 .aider.input.history
 node_modules
 .wrangler
+.aider*
+.env

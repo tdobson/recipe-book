@@ -24,7 +24,7 @@ title: Recipe Index
       <div class="col"><a href="beetroot-risotto" class="recipe-card">Beetroot Risotto</a></div>
       <div class="col"><a href="build-your-own-pizza" class="recipe-card">Build-your-own Pizza</a></div>
       <div class="col"><a href="enchiladas" class="recipe-card">Enchiladas</a></div>
-      <div class="col"><a href="goat-cheese-flan" class="recipe-card">Goat Cheese and Blue Cheese Flan</a></div>
+      <div class="col"><a href="goat-cheese-flan" class="recipe-card">Goat Cheese Flan</a></div>
       <div class="col"><a href="veggie-chilli" class="recipe-card">Veggie Chilli</a></div>
     </div>
   </div>
