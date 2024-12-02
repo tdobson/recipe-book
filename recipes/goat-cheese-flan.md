@@ -1,38 +1,48 @@
 ---
 layout: recipe.njk
-title: Goat Cheese and Blue Cheese Flan
+title: Goat Cheese Flan
 ---
 
 ## Description
-A savory flan combining the rich flavors of goat cheese and blue cheese on a flaky pastry base.
+A savory flan combining the creamy richness of soft cheese and goat cheese on a flaky pastry base.
 
 ## Ingredients
+For the Flan:
 - 1 pack ready-made pastry
 - 1 pack soft cream cheese
 - 1 log of solid goat cheese
-- 1 wedge blue cheese (from Aldi)
 - Salt and pepper to taste
 - Garlic-infused oil for drizzling
 
+For Serving:
+- 4-6 medium potatoes, peeled and quartered
+- Your choice of green vegetables (broccoli recommended)
+
 ## Equipment Needed
 - Baking sheet
-- Grater
 - Mixing bowl
+- Large pot for potatoes
+- Steamer or pot for vegetables
 
 ## Preparation Time
-- Prep: 25 minutes (including 20 minutes pastry rest time)
+- Pastry rest: 20 minutes
+- Prep: 5 minutes
 - Cook: 25 minutes
 
 ## Instructions
-1. Remove pastry from fridge 20 minutes before use to prevent cracking
-2. Lay pastry flat on a baking sheet with its baking paper
-3. Mix the soft cream cheese and goat cheese together thoroughly
-4. Spread cheese mixture on the pastry, leaving a 2cm border around the edges
-5. Grate or thinly slice the blue cheese using the long side of a grater, distribute evenly over top
-6. Season with salt and pepper
-7. Drizzle with garlic oil
-8. Bake at 180°C (350°F) for about 25 minutes until pastry is cooked
+1. Remove pastry from fridge and put potatoes on to boil (they'll take about 20-25 minutes)
+2. After 15 minutes of potato cooking time:
+   - Preheat oven to 180°C (350°F)
+   - Lay pastry flat on a baking sheet with its baking paper
+   - Mix the soft cream cheese and goat cheese together thoroughly
+   - Spread cheese mixture on the pastry, leaving a 2cm border around the edges
+3. Season with salt and pepper and drizzle with garlic oil
+4. Put the flan in the oven for 25 minutes
+5. When the flan has 10 minutes left:
+   - Start cooking your green vegetables
+   - Drain the potatoes when they're tender
+6. Everything should finish cooking around the same time
 
-## Suggested Sides
-- Roasted potatoes (cut into 1-inch cubes, roast for 15-20 minutes)
-- Broccoli or other vegetables of choice
+## Notes
+- The pastry should be golden and the cheese slightly browned when done
+- Serve immediately while everything is hot
